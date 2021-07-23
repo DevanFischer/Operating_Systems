@@ -1,3 +1,5 @@
 One of the main operating system functions is processor management, also known as process scheduling. The OS decides the order in which processes have access to the processor and how much processing time each process has. This system keeps track of the status of processes and is known as the traffic controller. This function is critical in a multi programming enviroment as it allocates and de-allocates processor use when needed.
 
 Another critial function of a computer is security. The use of a password and authorization provides and limits access to the system. This is used to protect user data, system configuaration, and system access. Computers without security functions are extremely vulnerable and should be secured immediately.
+
+File management is the organization of files and directories for efficient navigation and usage. Directories can be many levels deep and can contain other directories. The operating system keeps track of where the information is stored, what access rights are available, the status of every file, and other important metadata. This function and set of facilities is known as the file system.
